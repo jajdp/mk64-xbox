@@ -1,11 +1,21 @@
 # Mario Kart 64 on Xbox — the recipe, with no code
 
 How to get the [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) decompilation of
-*Mario Kart 64* onto an **Xbox Series in Developer Mode**.
+*Mario Kart 64* onto an **Xbox Series X in Developer Mode**.
 
 *(Español: [README.es.md](README.es.md))*
 
 It has been playing on two consoles since 2026-09-05.
+
+## Which console this was tested on
+
+**An Xbox Series X**, in Developer Mode. Both of the consoles this was built and tested on are Series X,
+so that is the only hardware anything claimed here covers.
+
+**A Series S has never been tried — not once.** It is a different machine: less memory available to a
+game and a weaker GPU. This may work on one, it may run slower, or it may not start at all; nothing here
+has been measured on it. If you run it on a Series S, what you get is not what this README reports, and
+none of the numbers here are a promise about that console.
 
 ## Read this first: there is almost nothing here, and that is the point
 
