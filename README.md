@@ -60,6 +60,17 @@ would mean publishing someone else's unlicensed code.
 
 ## Credits and license
 
+**Almost none of what makes this work is ours.** This repository is a recipe that glues together other people's work; without any one of these pieces there would be no port at all.
+
+| What it does | Who made it | License |
+|---|---|---|
+| **[SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)** — the *Mario Kart 64* PC port | **HarbourMasters** | none declared |
+| **[spaghettikart-xbox](https://github.com/dhakaaas1/spaghettikart-xbox)** — the Xbox UWP port of SpaghettiKart | **dhakaaas1** | none declared |
+| **[Mesa](https://mesa3d.org)** — the OpenGL implementation used on the console | the **Mesa** contributors | MIT |
+
+**The packaging recipe, the tooling and this documentation** are by **Recompilaciones**.
+
+
 The port is **dhakaaas1**'s, built on **HarbourMasters/SpaghettiKart** and **libultraship**. This
 repository is the documentation and the blanked manifest, by **Recompilaciones**, under the
 [MIT License](LICENSE).

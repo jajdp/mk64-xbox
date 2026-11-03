@@ -60,6 +60,17 @@ publicar código ajeno sin licencia.
 
 ## Créditos y licencia
 
+**Casi nada de lo que hace que esto funcione es nuestro.** Este repositorio es una receta que une el trabajo de otros; sin cualquiera de estas piezas no habría port.
+
+| Qué hace | Quién lo hizo | Licencia |
+|---|---|---|
+| **[SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)** — el port a PC de *Mario Kart 64* | **HarbourMasters** | none declared |
+| **[spaghettikart-xbox](https://github.com/dhakaaas1/spaghettikart-xbox)** — el port UWP a Xbox de SpaghettiKart | **dhakaaas1** | none declared |
+| **[Mesa](https://mesa3d.org)** — la implementación de OpenGL que se usa en la consola | the **Mesa** contributors | MIT |
+
+**La receta de empaquetado, las herramientas y esta documentación** son de **Recompilaciones**.
+
+
 El port es de **dhakaaas1**, construido sobre **HarbourMasters/SpaghettiKart** y **libultraship**.
 Este repositorio es la documentación y el manifiesto en blanco, de **Recompilaciones**, bajo la
 [licencia MIT](LICENSE).
